@@ -7,17 +7,8 @@
 #include "Debug.h"
 #include "symbol.h"
 
-/** @file symbol.c
- *  @brief You will modify this file and implement the symbol.h interface
- *  @details Your implementation of the functions defined in symbol.h.
- *  You may add other functions if you find it helpful. Added functions
- *  should be declared <b>static</b> to indicate they are only used
- *  within this file. The reference implementation added approximately
- *  110 lines of code to this file. This count includes lines containing
- *  only a single closing bracket (}).
- * <p>
- * @author Andy Hantke
- */
+// @author Andy Hantke
+// Created as a final project for Computer Systems Class
 
 /** size of LC3 memory 65,536 Addresses */
 #define LC3_MEMORY_SIZE  (1 << 16)
